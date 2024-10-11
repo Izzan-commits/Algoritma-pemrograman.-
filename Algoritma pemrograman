@@ -1,0 +1,89 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOPnOw0a4+pIU8BRLLvJf6d",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Izzan-commits/Algoritma-pemrograman.-/blob/main/Algoritma%20pemrograman\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "ALGORITMA PEMROGRAMAN MEMAHAMI DASAR-DASAR DAN IMPLEMENTASINYA\n",
+        "\n",
+        "\n",
+        "Algoritma adalah urutan langkah-langkah logis yang digunakan untuk menyelesaikan masalah. Sedangkan pemrograman Adalah kumpulan instruksi-instruksi tersendiri yang biasanya disebut source code yang dibuat oleh programmer.\n",
+        "\n",
+        "\n",
+        "STRUKTUR SISTEM KOMPUTER\n",
+        "\n",
+        "(Brainware : Pemakai) --> (Software : Sistem Operasi, Bhs. Pemrograman, dan Program Aplikasi) --> (Hardware : Komputer)\n",
+        "\n",
+        "\n",
+        "\n",
+        "SIKLUS HIDUP HIDUP PERANGKAT LUNAK (SOFTWARE)\n",
+        "\n",
+        "[Requirement] -> [Desain] -> [Implementasi] -> [Testing]\n",
+        "\n",
+        "\n",
+        "\n",
+        "JENIS PROSES ALGORITMA :\n",
+        "\n",
+        " *Sequence Process* : instruksi dikerjakan secara sekuensial, berurutan.\n",
+        "\n",
+        " *Selection Process* : instruksi dikerjakan jika memenuhi kriteria tertentu.\n",
+        "\n",
+        " *Iteration Process* : instruksi dikerjakan selama memenuhi suatu kondisi tertentu.\n",
+        "\n",
+        " *Concurrent Process* : beberapa instruksi dikerjakan secara bersama.\n",
+        "\n",
+        "\n",
+        "LANGKAH PENYUSUN ALGORITMA :\n",
+        "\n",
+        "-Identifikasi masalah.\n",
+        "\n",
+        "-Tentukan input dan output.\n",
+        "\n",
+        "-Definisikan langkah-langkah dalam urutan -logis.\n",
+        "\n",
+        "-Periksa solusi untuk memastikan hasil yang diinginkan.\n",
+        "\n",
+        "Kesimpulan\n",
+        "\n",
+        "Algoritma sangat berguna bagi ilmu komputer maupun kehidupan sehari-hari dikarenakan langkah-langkah sistematisnya dalam penyelesaian suatu masalah."
+      ],
+      "metadata": {
+        "id": "xFXI3Sg-yl7t"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "ctjc7YFCv_bk"
+      },
+      "outputs": [],
+      "source": []
+    }
+  ]
+}
